@@ -1,6 +1,6 @@
 {
     "name" : "Cheddar Sauce",
-    "identifier" : "#",
+    "identifier" : "https://github.com/craviart/sketch-cheddar-sauce",
     "version" : "0.01",
     "description" : "A sketch plugin that collects colors from a JSON file and fills shapes with it.",
     "authorEmail" : "camille.raviart@gmail.com",
