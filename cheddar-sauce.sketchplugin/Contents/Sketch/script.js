@@ -16,5 +16,5 @@ function onRun(context) {
   var group = page.newGroup({frame: new sketch.Rectangle(0, 0, 200, 200)})
 
   // Importing the image into the new group
-  var image = group.newImage({frame : new sketch.Rectangle(50, 50, 100, 100) imageURL:imageURL})
+  var image = group.newImage({frame : new sketch.Rectangle(0, 0, 200, 200), imageURL:imageURL})
 }
