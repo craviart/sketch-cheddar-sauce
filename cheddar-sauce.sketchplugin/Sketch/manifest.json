@@ -1,0 +1,17 @@
+{
+    "name" : "Cheddar Sauce",
+    "identifier" : "#",
+    "version" : "0.01",
+    "description" : "A sketch plugin that collects colors from a JSON file and fills shapes with it.",
+    "authorEmail" : "camille.raviart@gmail.com",
+    "author" : "Camille Raviart",
+    "commands" : [
+    {
+      "script" : "script.js",
+      "handler" : "onRun",
+      "shortcut" : "",
+      "name" : "Cheddar Sauce",
+      "identifier" : "resources"
+    }
+  ]
+}
